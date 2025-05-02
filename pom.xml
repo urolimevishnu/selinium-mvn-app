@@ -22,7 +22,7 @@
     <dependency>
       <groupId>org.openqa.selenium</groupId>
       <artifactId>selenium-chrome-driver</artifactId>
-      <version>4.1.3</version>
+      <version>4.1.0</version>
     </dependency>
     <dependency>
         <groupId>io.github.bonigarcia</groupId>
